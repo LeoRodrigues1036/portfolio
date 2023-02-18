@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Gajraj+One&family=Shantell+Sans:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gajraj+One&family=Phudu:wght@300&family=Shantell+Sans:wght@300&display=swap');
+
+* {
+    margin: 0;
+}
+
+body{
+    background-color: #00755c ;
+}
+
+header{
+    margin: 5px;
+    background-color: #00c16c;
+}
+
+main{
+    background-color: #004443;
+    margin: 5px;
+    height: 500px;
+}
+
+.cab1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+nav li{
+   padding: 10px; 
+   background-color: #90ff17;
+   list-style-type: none;
+   border-radius: 10px;
+   margin: 5px;
+   
+}
+
+a{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Phudu', cursive;
+    font-family: 'Shantell Sans', cursive;
+    margin: 20px;
+}
+img{
+    margin-left: 190px;
+    border-radius: 200px;
+}
+
+h1{
+    margin-top: 100px;
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Shantell Sans', cursive;
+    margin-right: 55px;
+    color: #002e34;
+}
+h2{
+    padding: 10px;
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Shantell Sans', cursive;
+    margin-left: 150px;
+    color: #002e34;
+}
+
+h3{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Phudu', cursive;
+    font-family: 'Shantell Sans', cursive;
+    color: #90ff17;
+    padding: 10px;
+    margin-left: 150px;
+}
+
+p{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Phudu', cursive;
+    font-family: 'Shantell Sans', cursive;
+    color: #90ff17;
+    padding: 20px;
+}
+a{
+    color: #002e34;
+    text-decoration: none;
+    margin: 20px;
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Phudu', cursive;
+    font-family: 'Shantell Sans', cursive;
+}
+nav{
+    background-color: #002e34;
+}
+
+li{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Phudu', cursive;
+    font-family: 'Shantell Sans', cursive;
+    margin-left: 200px;
+    margin-top: 15px;
+    list-style-type: none;
+}
+main ul{
+    padding: 20px;
+    color: #90ff17;
+}

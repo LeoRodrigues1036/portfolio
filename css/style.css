@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Gajraj+One&family=Shantell+Sans:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gajraj+One&family=Phudu:wght@300&family=Shantell+Sans:wght@300&display=swap');
+
+* {
+    margin: 0;
+}
+
+body{
+    background-color: #00755c ;
+}
+
+header{
+    margin: 5px;
+    background-color: #00c16c;
+}
+
+main{
+    background-color: #004443;
+    margin: 5px;
+}
+
+.cab1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+li{
+   padding: 10px;
+   background-color: #90ff17;
+   list-style-type: none;
+   border-radius: 10px;
+   margin: 5px;
+   
+}
+
+a{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Shantell Sans', cursive;
+    margin: 20px;
+}
+img{
+    
+    margin-left: 190px;
+    border-radius: 200px;
+}
+
+h1{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Shantell Sans', cursive;
+    margin-right: 55px;
+    color: #002e34;
+    margin-top: 100px;
+}
+
+h2{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Shantell Sans', cursive;
+    color: #002e34;
+    padding: 10px;
+    margin-left: 150px;
+}
+
+p{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Phudu', cursive;
+    font-family: 'Shantell Sans', cursive;
+    height: 500px;
+    margin-right: 100px;
+    margin-left: 200px;
+    color: #90ff17;
+    padding: 20px;
+}
+a{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Phudu', cursive;
+    font-family: 'Shantell Sans', cursive;
+    color: #002e34;
+    text-decoration: none;
+}
+nav{
+    background-color: #002e34;
+}
+h3{
+    font-family: 'Gajraj One', cursive;
+    font-family: 'Phudu', cursive;
+    font-family: 'Shantell Sans', cursive;
+    margin-left: 150px;
+    color: #90ff17;
+    padding: 20px;
+}
+ 
